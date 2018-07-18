@@ -6,6 +6,8 @@ public class PomActions
 {
 public static void actions()
 {
-	Inspecting.learn().click();
+	//Inspecting.learn().click();
+	System.out.println("gsacshax");
+	
 }
 }
